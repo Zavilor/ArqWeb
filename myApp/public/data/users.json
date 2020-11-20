@@ -1,0 +1,44 @@
+[
+ {
+  "name": "Juan",
+  "apellido": "rettori",
+  "email": "d@d.com",
+  "password": "$2b$05$hZ6spRh5vfPsjAixM7VHLOIzobnYMXCslGmTYcgw99EfAB5MqRnli"
+ },
+ {
+  "name": "Agus",
+  "apellido": "Blum",
+  "email": "cf@f.com",
+  "password": "$2b$05$cqFOzvC4CuBSSC4NokzCouCljggPcy7EP/LLKkvpKnEe6uBGY/H52"
+ },
+ {
+  "name": "otro usuario",
+  "apellido": "de prueba",
+  "email": "g@d.com",
+  "password": "$2b$05$oPWLTowTiSaJZi.NOZ79nu/nHihOoN8qDKQOXOoDxnu.3GuDWe46K"
+ },
+ {
+  "name": "usuario 4to",
+  "apellido": "4t0",
+  "email": "d@dsad.com",
+  "password": "$2b$05$YUuOVyTRUG9LApw.2Az.leheB5k0a9y47tI8.4rAHqmzFQMYZD7ve"
+ },
+ {
+  "name": "usuario 5",
+  "apellido": "asdsadasdsa",
+  "email": "dsadasd",
+  "password": "$2b$05$hTDMVHOtfwhmtgBwBCp17esOSTNaDYCp/byaRvTI/TPr.7TtopWE."
+ },
+ {
+  "name": "Ultyimo usuario",
+  "apellido": "sadas",
+  "email": "dsadasd",
+  "password": "$2b$05$FkHCl7co7ExGDMz8tYvUse3GLdldxj.H6T2GOOxDFDXxU8Mxv1rcS"
+ },
+ {
+  "name": "",
+  "apellido": "",
+  "email": "",
+  "password": "$2b$05$TZnKBWN5jBSo6WloBgsvE.9Yz./rgQdBldAT1x4gqnW6L5zxRQ8ca"
+ }
+]

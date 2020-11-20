@@ -15,3 +15,21 @@ Páginas de referencia:
 - www.mercadolibre.com.ar
 - www.deautos.com
 - www.demotores.com.ar
+
+Endpoints:
+
+/user/login                                     GET
+/user/register                                  POST
+/user/profile/edit                              GET
+/user/profile/update                            PUT
+/user/delete                                    DELETE
+
+/car/create                                     POST
+/car/list (o /read)                             GET
+/car/detail                                     GET
+/car/update                                     PUT
+/car/delete                                     DELETE
+
+/news                                           GET
+
+/help                                           GET
