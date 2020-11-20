@@ -18,14 +18,17 @@ Páginas de referencia:
 
 Endpoints:
 
-/user/login                                     GET
-/user/register                                  POST
-/user/profile/edit                              GET
-/user/profile/update                            PUT
-/user/delete                                    DELETE
+/user/login                                     GET (Muestra el formulario de login)
+/user/login                                     POST (Manda los datos ingresados al servidor)
+/user/register                                  GET (Muestra el formulario de registro)
+/user/register                                  POST (Manda los datos ingresados al servidor)
+/user/profile/edit                              GET (Muestra la información del usuario para editar)
+/user/profile/update                            PUT (Manda por PUT los nuevos datos para actualizar)
+/user/delete                                    DELETE (Manda la solicitud de delete al servidor, sobre el email indicado)
 
+/car/create                                     GET
 /car/create                                     POST
-/car/list (o /read)                             GET
+/car/list                                       GET
 /car/detail                                     GET
 /car/update                                     PUT
 /car/delete                                     DELETE
